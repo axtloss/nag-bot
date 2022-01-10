@@ -55,4 +55,4 @@ def bot_run():
 if __name__ == '__main__':
     bot_run()
     if os.environ.get('NAGBOT_DEBUG') != 'yes':
-        sys.stderr = DevNull() # comment out when debugging
+        sys.stderr = DevNull() # set envvar NAGBOT_DEBUG to 'yes' to get actual stack traces etc
