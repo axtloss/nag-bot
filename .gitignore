@@ -1,2 +1,4 @@
 log.txt
 config.py
+.idea/
+__pycache__/

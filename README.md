@@ -1,4 +1,5 @@
 # Nag Bot
+
 #### Features:
 
 - It nags you when someone uses the nag command
@@ -22,7 +23,7 @@
 
    ```python main.py```
 
-####Todo:
+#### Todo:
 
 - Slash commands?
 - Maybe a systemd service?
