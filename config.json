@@ -1,7 +1,7 @@
 {
     "trigger": "!nag",
     "bot_token": "<token>",
-    "nag_role_id": "<id of role taht can nag>",
+    "nag_role_id": "<id of role that can nag>",
     "nag_people" : [
         {
             "name": "usr1",
