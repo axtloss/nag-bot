@@ -1,19 +1,19 @@
 {
     "trigger": "!nag",
-    "Bot-token": "<token>",
-    "Nag-role-id": "000000",
-    "nag-people" : [
+    "bot_token": "<token>",
+    "nag_role_id": "<id of role taht can nag>",
+    "nag_people" : [
         {
             "name": "usr1",
-            "ntfy-id": "nagbotUsr1"
+            "ntfy_id": "nagbotUsr2"
         },
         {
             "name": "usr2",
-            "ntfy-id": "nagbotUsr2"
+            "ntfy_id": "nagbotUsr2"
         },
         {
             "name": "usr3",
-            "ntfy-id": "nagbotUsr3"
+            "ntfy_id": "nagbotUsr3"
         }
     ]
 }
